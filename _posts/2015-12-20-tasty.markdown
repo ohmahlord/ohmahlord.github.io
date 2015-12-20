@@ -1,6 +1,6 @@
 ---
 published: true
-title: Tasty
+title: JuicyMelon
 layout: post
 ---
 <script type="text/javascript">
